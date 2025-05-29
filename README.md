@@ -64,7 +64,7 @@ Connect hardware and run:
 
     python main.py
 
-⚠️ Ensure all GPIO connections are correct before powering on the motors.
+⚠️ **Ensure all GPIO connections are correct before powering on the motors.**
 
 # Contributing
 
