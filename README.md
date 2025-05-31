@@ -4,7 +4,7 @@ This AI Robotic Arm is a cutting-edge robotic arm powered by electromyography (E
 
 # Features (Planned & In Progress)
 
-EMG-Based Control: Responds to actual muscle signals using MyoWare sensors.
+**EMG-Based Control:** Responds to actual muscle signals using MyoWare sensors.
 
 Servo Motor Articulation: Controls multiple degrees of freedom for realistic arm movement.
 
