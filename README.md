@@ -10,7 +10,7 @@ This AI Robotic Arm is a cutting-edge robotic arm powered by electromyography (E
 
 **User Recognition:** Detects and identifies users to trigger personalized gestures.
 
-AI Integration: Performs intelligent decision-making based on environmental inputs and identity recognition.
+**AI Integration:** Performs intelligent decision-making based on environmental inputs and identity recognition.
 
 Multi-Sensor Input: Button control, potentiometer movement, and LED indicators already integrated.
 
