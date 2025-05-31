@@ -14,7 +14,7 @@ This AI Robotic Arm is a cutting-edge robotic arm powered by electromyography (E
 
 **Multi-Sensor Input:** Button control, potentiometer movement, and LED indicators already integrated.
 
-Modular Expansion: Designed for future upgrades with cameras, haptic feedback, and more.
+**Modular Expansion:** Designed for future upgrades with cameras, haptic feedback, and more.
 
 # Hardware Overview
 
