@@ -8,7 +8,7 @@ This AI Robotic Arm is a cutting-edge robotic arm powered by electromyography (E
 
 **Servo Motor Articulation:** Controls multiple degrees of freedom for realistic arm movement.
 
-User Recognition: Detects and identifies users to trigger personalized gestures.
+**User Recognition:** Detects and identifies users to trigger personalized gestures.
 
 AI Integration: Performs intelligent decision-making based on environmental inputs and identity recognition.
 
