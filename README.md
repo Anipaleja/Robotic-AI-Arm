@@ -12,7 +12,7 @@ This AI Robotic Arm is a cutting-edge robotic arm powered by electromyography (E
 
 **AI Integration:** Performs intelligent decision-making based on environmental inputs and identity recognition.
 
-Multi-Sensor Input: Button control, potentiometer movement, and LED indicators already integrated.
+**Multi-Sensor Input:** Button control, potentiometer movement, and LED indicators already integrated.
 
 Modular Expansion: Designed for future upgrades with cameras, haptic feedback, and more.
 
