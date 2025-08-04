@@ -1,6 +1,6 @@
 # Robotic-AI-Arm
 
-This AI Robotic Arm is a cutting-edge robotic arm powered by electromyography (EMG) sensors and artificial intelligence, as well uses OpenCV to detect input hand gestures and mimic those to the arm. Designed to respond to muscle signals and intelligently adapt to its environment, this arm brings advanced assistive technology and human-robot interaction into one cohesive system.
+This AI Robotic Arm is a robotic arm powered by electromyography (EMG) sensors and artificial intelligence, as well uses OpenCV to detect input hand gestures and mimic those to the arm. Designed to respond to muscle signals and intelligently adapt to its environment, this arm brings advanced assistive technology and human-robot interaction into one cohesive system.
 
 # Features (Planned & In Progress)
 
